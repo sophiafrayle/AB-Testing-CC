@@ -36,3 +36,4 @@ Cookie Cats, a popular mobile puzzle game, introduced a gate feature that player
 2. **Feature Testing**: Test additional game features and their placement to optimize player experience.
 3. **Long-term Retention**: Analyze long-term retention beyond the first 7 days to gain deeper insights into player behavior.
 4. **Qualitative Feedback**: Collect and analyze qualitative feedback from users to complement quantitative findings and guide future feature adjustments.
+![Signature](https://github.com/sophiafrayle/EDA-Covid/blob/main/images/Sophia%20Frayle.png)
